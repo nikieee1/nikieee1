@@ -9,12 +9,7 @@ Educational technology · adaptive learning · AI-native products
 
 Building **Adaptly** — an AI-native **adaptive learning** platform for ML engineers: guided paths, progress intelligence, and learner-adaptive pacing (how practice is sequenced and explained), not a static course dump.
 
-| | |
-|--|--|
-| **Role** | Project direction, partnerships, business |
-| **Product** | [adaptlyapp.dev](https://adaptlyapp.dev/) |
-| **Co-founders** | [Ilya](https://github.com/ilyaemelian) — ML engineering & product systems · [Maria](https://github.com/mashaemelianova) — onboarding, UX & brand |
-| **Status** | Closed beta · France → Europe |
+
 
 Prior online-education products are **past experience**, not Adaptly’s current traction.
 
