@@ -23,12 +23,5 @@ Prior online-education products are **past experience**, not Adaptly’s current
 
 ---
 
-### Links
-
-- Product: [adaptlyapp.dev](https://adaptlyapp.dev/)  
-- Ilya (tech / research): [github.com/ilyaemelian](https://github.com/ilyaemelian)  
-- Maria (UX / brand): [github.com/mashaemelianova](https://github.com/mashaemelianova)
-
----
 
 *Profile README · Talent / EdTech track · not a portfolio dump.*
