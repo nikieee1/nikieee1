@@ -1,27 +1,41 @@
 # Nikita Emelianov
 
 **Co-founder & Head of Project · Adaptly**  
-Educational technology · adaptive learning · AI-native products
+AI EdTech · adaptive learning · entrepreneur since 2004 · Candidate of Sciences (Economics)
 
 ---
 
-### Focus
+### Now
 
-Building **Adaptly** — an AI-native **adaptive learning** platform for ML engineers: guided paths, progress intelligence, and learner-adaptive pacing (how practice is sequenced and explained), not a static course dump.
+Building **[Adaptly](https://adaptlyapp.dev/)** — AI-native adaptive learning for ML engineers  
+(guided paths · progress intelligence · in-product mentor). **Closed beta.** France → Europe.
 
-
-
-Prior online-education products are **past experience**, not Adaptly’s current traction.
-
----
-
-### Track
-
-- **EdTech / educational technology** — adaptive systems, learner experience, product for technical education  
-- **Founding** — three-founder ownership: engineering · learner experience · project  
-- Quiet public surface: product work and proprietary systems stay private by design
+| | |
+|--|--|
+| **Role** | Project direction, partnerships, business |
+| **Site** | [nikitaemelianov.com](https://nikitaemelianov.com/) *(deploy new build from `усиление никита/site`)* |
+| **Co-founders** | [Ilya](https://github.com/ilyaemelian) · [Maria](https://github.com/mashaemelianova) |
+| **Product** | [adaptlyapp.dev](https://adaptlyapp.dev/) |
 
 ---
 
+### Track record (selected)
 
-*Profile README · Talent / EdTech track · not a portfolio dump.*
+Public surface = **descriptions**, not full code dumps. Delivery systems stay private.
+
+- **Adaptly** — current · Head of Project  
+- **BusinessLab OÜ** (Estonia) — Director · EdTech & digital delivery  
+- **Online education products** — prior ventures (multi-country audiences)  
+- Product lines under / related to the lab: EvoInstitute · EvoStudy · Sonarium *(names; stacks private)*
+
+---
+
+### Profile rules
+
+- Entrepreneur / project lead — not a junior coding portfolio  
+- No music / creative-dump repos on the public overview  
+- LinkedIn + site must match this README  
+
+---
+
+*Talent / EdTech track · quiet public surface.*
